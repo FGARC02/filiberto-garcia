@@ -1,0 +1,13 @@
+#Filiberto g
+Mediatype= input("what your favorite media type?")
+print ("what is your favorite media type?")
+Title= input("what the title of your book?")
+print ("what the title of your book?")
+Genre= input("what is the genre?")
+print ("what is the genre?")
+Year= input("what year was your book released?")
+print ("what year was your book released?")
+Descriptio= input("what is description?")
+print ("what is description?")
+Rating= input("what is your rating about the book?")
+print ("what is your rating about your book?")
